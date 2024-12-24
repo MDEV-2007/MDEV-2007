@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Murodulla Ismoilov</h1>
 <h3 align="center">A passionate FullStack developer from Uzbekistan</h3>
 
+![68747470733a2f2f6d656469612e74656e6f722e636f6d2f6d4767575938526b67594d41414141432f68656c6c6f2d776f726c642e676966](https://github.com/user-attachments/assets/5029fcbd-36bc-41ec-8039-da5e7cb52137)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdev&label=Profile%20views&color=0e75b6&style=flat" alt="mdev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdev" alt="mdev" /></a> </p>
