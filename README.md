@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Murodulla Ismoilov</h1>
 <h3 align="center">A passionate FullStack developer from Uzbekistan</h3>
 
-![68747470733a2f2f6d656469612e74656e6f722e636f6d2f6d4767575938526b67594d41414141432f68656c6c6f2d776f726c642e676966](https://github.com/user-attachments/assets/5029fcbd-36bc-41ec-8039-da5e7cb52137)
-
-![pexels-christian-heitz-285904-842711](https://github.com/user-attachments/assets/b05f6d24-6284-4036-ab0b-8586d81495bb)
 
 ![pexels-christian-heitz-285904-842711 (1)](https://github.com/user-attachments/assets/30270f80-5008-4583-a079-8eccbe62b2b5)
 
