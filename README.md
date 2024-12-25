@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **None**
 
-- 💬 Ask me about **React And Flutter**
+- 💬 Ask me about **React And Django**
 
 - 📫 How to reach me **uzbekcoders0706@gmail.com**
 
