@@ -3,7 +3,7 @@
 <h3 align="center">A passionate FullStack developer from Uzbekistan</h3>
 
 
-![pexels-christian-heitz-285904-842711 (1)](https://github.com/user-attachments/assets/30270f80-5008-4583-a079-8eccbe62b2b5)
+![pexels-jorge-jesus-137537-614117](https://github.com/user-attachments/assets/8a926fd8-8efd-42e8-a0cd-f7a353b0215f)
 
 
 
