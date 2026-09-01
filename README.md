@@ -74,7 +74,7 @@ what I learn along the way on YouTube.
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Ilm Ildizi** | DTM exam prep platform for Uzbek students | Django · Telegram · PostgreSQL |
+| **Ilm Ildizi** | DTM exam prep platform for Uzbek students | Django · Telegram · PostgreSQL |· NextJs | 
 | **Maydon** | Futsal court booking platform | NestJS · React Native · Prisma |
 | **RxTez** | Prescription automation for clinics | Python · PostgreSQL |
 | **Super Chat** | Local-first AI desktop client | Python · Flet · Ollama |
